@@ -1,0 +1,11 @@
+ {
+  "author": "Isaac Berg",
+  "name": "censorifyib",
+  "version": "0.0.1",
+  "description": "Censors -certain- words out of text",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
