@@ -1,10 +1,14 @@
  {
   "author": "Isaac Berg",
   "name": "censorifyib",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Censors -certain- words out of text",
   "main": "censortext",
   "dependencies": {},
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/iberg/CIS-IB-Public"
+  },
   "engines": {
       "node": "*"
   }
